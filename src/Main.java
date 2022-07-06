@@ -1,4 +1,4 @@
-//*CLASS: class name (classname.java)
+//*CLASS: class name (main.java)
 //* DESCRIPTION
 //* A description of the contents of this //file.
 //*
